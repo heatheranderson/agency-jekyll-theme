@@ -42,3 +42,15 @@ Icon
 # local jekyll dev
 Gemfile
 Gemfile.lock
+
+### Vim ###
+# swap
+.sw[a-p]
+.*.sw[a-p]
+# session
+Session.vim
+# temporary
+.netrwhist
+*~
+# auto-generated tag files
+tags
